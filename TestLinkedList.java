@@ -28,8 +28,6 @@ public class TestLinkedList {
 		
 		GenericLinkedList<String> stringList=new GenericLinkedList<String>();
 		
-
-		//I think I only need to do the number 9. to finish!!
 	}//end main
 
 }//end class
